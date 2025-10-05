@@ -1,4 +1,4 @@
-import { Layout } from './components/layout';
+import { Layout } from './components/Layout.tsx';
 import { Toaster } from './components/ui/sonner';
 
 export default function App() {
